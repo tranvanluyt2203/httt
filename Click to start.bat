@@ -1,1 +1,0 @@
-python odoo-bin -r hello -w 22032002 --addons-path=addons -d mydb
